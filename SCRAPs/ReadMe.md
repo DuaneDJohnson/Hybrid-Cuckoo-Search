@@ -113,7 +113,7 @@ export PATH=/opt/gcc-6.1.0/bin:$PATH LD_LIBRARY_PATH=/opt/gcc-6.1.0/lib64:$LD_LI
 
 export PATH=/opt/gcc-6.1.0/bin:$PATH LD_LIBRARY_PATH=/opt/gcc-6.1.0/lib64:$LD_LIBRARY_PATH
 
-MPIRUN="~/openmpi-1.10.2-gcc-6.1.0/bin/mpirun"
+MPIRUN="/bin/mpirun"
 SCRAPS="~/directory-path/a.out"
 
 ${MPIRUN}  ${SCRAPS} -p -np 12 >& SCRAPs.log.
