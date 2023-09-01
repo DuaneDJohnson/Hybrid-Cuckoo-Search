@@ -3,9 +3,15 @@
 #SuperCell Random APproximates(SCRAPs)for specified point and pair
 #correlations in high-entropy alloys having proper distributions.
 
-#Copyright (c) 2020. Duane D. Johnson. All rights reserved.
 #Developed by: Duane D. Johnson, Rahul Singh, Prashant Singh, Aayush Sharma, Ganesh Balasubramanian.
 #Iowa State University; www.iastate.edu
+
+#Copyright (c) 2020. Iowa State University.  This material was produced in part under U.S. Government 
+#contract DE-AC02-07CH11358 for the Ames National Laboratory, which is operated by Iowa State University
+#for the U.S. Department of Energy. The U.S. Government has rights to use, reproduce, and distribute this software. 
+#NEITHER THE GOVERNMENT, AMES NATIONAL LABORATORY, NOR IOWA STATE UNIVERSITY MAKES ANY WARRANTY, EXPRESS OR IMPLIED, 
+#OR ASSUMES ANY LIABILITY FOR THE USE OF THIS SOFTWARE. If software is modified to produce derivative works, such 
+#modified software should be clearly marked, so #as not to confuse it with the version available from The Ames Laboratory.
 
 Input files needed from the user: 
 (I) INPUT  - input file 
